@@ -15,24 +15,24 @@ Welcome to contact me for discussions and collaborations.
 
 Research Interests
 ======
-Environmental remote sensing
-Irrigation mapping
-Hydroclimatic impacts of land use/cover change
-Machine learning and spatial data analysis
+* Environmental remote sensing
+* Irrigation mapping
+* Hydroclimatic impacts of land use/cover change
+* Machine learning and spatial data analysis
 
 
 Education Background
 ======
-2020-2023, Ph.D. in Cartography and Geography Information System,Institute of Geographic Sciences and Natural Resources Research, China 
-2013-2016, M.A. in Geodesy and Surveying Engineering, Central South University, China
-2009-2013, B.A. in Surveying and Mapping, Central South University, China
+* 2020-2023, Ph.D. in Cartography and Geography Information System,Institute of Geographic Sciences and Natural Resources Research, China 
+* 2013-2016, M.A. in Geodesy and Surveying Engineering, Central South University, China
+* 2009-2013, B.A. in Surveying and Mapping, Central South University, China
 
 
 Work Experience
 ------
-2023-present, Postdoctoral Research Fellow, National University of Singapore, Singapore
-2020-2023, Research Associate, Institute of Geographic Sciences and Natural Resources Research, Beijing, China
-2016-2020, Surveying Engineer, Jiangsu Power Design Institute, Nanjing, China
+* 2023-present, Postdoctoral Research Fellow, National University of Singapore, Singapore
+* 2020-2023, Research Associate, Institute of Geographic Sciences and Natural Resources Research, Beijing, China
+* 2016-2020, Surveying Engineer, Jiangsu Power Design Institute, Nanjing, China
 
 
 Contact Me
