@@ -16,11 +16,11 @@ author_profile: true
 
 Agricultural irrigation, as an important practice to protect crops from drought and promote grain yield, has a long history in China. A timely and precise dataset about the extent and dynamics of irrigated areas is necessary for water allocation and agricultural management but is scarce in China. Here we developed annual irrigated cropland maps across China (IrriMap_CN) at 500-m resolution from 2000 to 2019, using MODIS data, machine-learning method, and Google Earth Engine platform. First, we generated annual nationwide training samples by strictly screening the existing irrigation maps downscaled from the statistical data. Second, we implemented locally adaptive random forest classifiers in 511 nominal 1°×1° grid cells across China with MODIS vegetation indices, climatic factors, and topography variables. Third, we conducted nationwide pixel-wise validation of the IrriMap_CN using independent samples. The validation results based on more than 3,000 ground truth points revealed that IrriMap_CN had high accuracies ranging from 77.2% to 85.9% The time series of IrriMap_CN detected substantial expansion of irrigated areas in Xinjiang and Heilongjiang (more than 50% in total) and pronounced decreases in Sichuan, Jiangsu, and Hebei. The analyses of irrigation frequency, start time, and end time implied that North China Plain was the most intensive irrigated area; but the irrigation area showed a decreasing trend since 2000, consistent with the reduced agricultural water consumption. The annual irrigation datasets allow us to understand the spatiotemporal dynamics of irrigated croplands in China and are expected to contribute to the improvement of earth system models and facilitate sustainable agricultural water management.
 
-![](https://Chao21.github.io/images/RSE_Irrigation.png){:height="69px" width="58px"}
+![](https://Chao21.github.io/images/RSE_Irrigation.png){:height="120px" width="100px"}
 
 Trend of irrigated croplands during 2000 to 2019 in China
 
-Reference: Chao Zhang, Jinwei Dong*, Quansheng Ge*. IrriMap_CN: Annual irrigation maps across China in 2000–2019 based on satellite observations, environmental variables, and machine learning.{:target="_blank"} Remote Sensing of Environment 280, 113184-113197.
+Reference: **Chao Zhang**, Jinwei Dong\*, Quansheng Ge\*. [IrriMap_CN: Annual irrigation maps across China in 2000–2019 based on satellite observations, environmental variables, and machine learning.](https://doi.org/10.1016/j.rse.2022.113184){:target="_blank"} *Remote Sensing of Environment* 280, 113184-113197.
 
 
 **2. Declined Irrigation Cooling Effects in Northwest China**
@@ -28,11 +28,11 @@ Reference: Chao Zhang, Jinwei Dong*, Quansheng Ge*. IrriMap_CN: Annual irrigatio
 
 The cooling effects of agricultural irrigation on land surface temperature (LST) are more evident in arid areas like Xinjiang Uygur Autonomous Region (Xinjiang) in northwest China. In the 21st century, irrigation practices improved, and the water-saving irrigation (WSI) area increased substantially from 1266 ha in 2000 to 2916 ha in 2019. However, it remains unknown how the cooling effects changed along with the increasing WSI area relative to traditional irrigation. Here we examine the changes in irrigation cooling effects on LST in Xinjiang from 2000 to 2020 at multi-spatiotemporal scales and analyze their relationship with irrigation water use (IWU). We find a significant decrease in daytime cooling effects (0.21 K/decade) but an increase in nighttime cooling (-0.17 K/decade) over stable croplands in Xinjiang, both of which significantly (P < 0.1) correlate to the decreased IWU. Seasonally, the weakened daytime cooling effect is most evident in late summer and early spring. Spatially, the decrease in the cooling effects is much more prominent in South Xinjiang (0.48 K/decade, p < 0.05) than in North Xinjiang, possibly due to their different WSI extents, intensities, and climate conditions (e.g., precipitation). Furthermore, we identify different cooling alleviation trends in two different agricultural systems: state farms with more advanced WSI measurements and conventional farms with fewer WSI infrastructures. We find that the state farms had a higher LST (∆LST: 0.60 K) and vapor pressure deficit (∆VPD: 0.013 kPa) than conventional farms in 2000, but that gap significantly decreased to 0.32 K and 0.002 kPa in 2020 due to increasing WSI in conventional farms, suggesting that the promotion of WSI dampened the irrigation cooling effects in Xinjiang. Our findings show that WSI lessens the cooling effect of irrigation, and we suggest that WSI-related effects on temperature should be considered in climate modeling and climate change scenarios.
 
-![](https://Chao21.github.io/images/AFM2_Cooling.png){:height="69px" width="58px"}
+![](https://Chao21.github.io/images/AFM2_Cooling.png){:height="120px" width="100px"}
 
 Trend of irrigation cooling effect in the daytime
 
-Reference: Chao Zhang, Jinwei Dong*,..., Quansheng Ge*. Attenuated cooling effects with increasing water-saving irrigation: Satellite evidence from Xinjiang, China.{:target="_blank"} Agricultural and Forest Meteorology 333, 109397-109409.
+Reference: **Chao Zhang**, Jinwei Dong\*, Guoyong Leng, Russell Doughty, Kun Zhang, Songjun Han, Geli Zhang, Xuezhen Zhang, Quansheng Ge\*. [Attenuated cooling effects with increasing water-saving irrigation: Satellite evidence from Xinjiang, China.](https://doi.org/10.1016/j.agrformet.2023.109397){:target="_blank"} *Agricultural and Forest Meteorology* 333, 109397-109409.
 
 
 **3. Evaluation of six 30-m cropland datasets in China**
@@ -44,7 +44,7 @@ With the development of remote sensing technology, more and more fine-resolution
 
 Spatial pattern of six 30-m cropland datasets
 
-Reference: Chao Zhang, Jinwei Dong*, Quansheng Ge. Quantifying the accuracies of six 30-m cropland datasets over China: A comparison and evaluation analysis.{:target="_blank"} Computers and Electronics in Agriculture 197, 106946-106959.
+Reference: **Chao Zhang**, Jinwei Dong\*, Quansheng Ge. [Quantifying the accuracies of six 30-m cropland datasets over China: A comparison and evaluation analysis.](https://doi.org/10.1016/j.compag.2022.106946){:target="_blank"} *Computers and Electronics in Agriculture* 197, 106946-106959.
     
 
 
