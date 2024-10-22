@@ -37,5 +37,5 @@ Work Experience
 
 Contact Me
 ------
-Email: chao.z23@nus.edu.sg or zc.geos@nus.edu.sg
+Email: chao.z23@nus.edu.sg; zc.geos@google.com
 
