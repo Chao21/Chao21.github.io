@@ -14,8 +14,8 @@ main:
   - title: "Data&Codes"
     url: /rdata/    
             
-  # - title: "News"
-  #   url: /news/
+  - title: "News"
+    url: /news/
     
   # - title: "CV"
     # url: /cv/
