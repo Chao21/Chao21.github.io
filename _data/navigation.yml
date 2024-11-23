@@ -14,10 +14,10 @@ main:
   - title: "Data&Codes"
     url: /rdata/    
             
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "News"
+   url: /news/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+    # url: /cv/
     
 
