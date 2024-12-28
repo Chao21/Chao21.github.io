@@ -40,7 +40,8 @@ author_profile: true
 
 --------------------------------------------------
 **3. Papers during my MASTER education and INDUSTRIAL working careers**
------
+--------------------------------------------------
+
 [11] **Zhang C.**, Li X., Zhao X. Electricity Transmission Line Path Planning Based on Improved Dijkstra Algorithm. *Electric Power Survey & Design*, 2022, (2): 1-5. DOI: 10.13500/j.dlkcsj.issn1671-9913.2022.02.001. [Full text link](https://drive.google.com/file/d/1a52iio-s8dqF3gKHM6WLcK4OS66Ev2Tp/view?usp=sharing){:target="_blank"}. (In Chinese: 张超, 李欣, 赵祥伟. 基于改进Dijkstra算法的输电线路路径规划[J]. 电力勘测设计, 2022, (2): 1-5. DOI: 10.13500/j.dlkcsj.issn1671-9913.2022.02.001)
 
 [10] Wang M., **Zhang C.\***, Wang N., Li X. Application of AutoCAD Secondary Development in Electricity Transmission Line Surveying. *Electric Power Survey & Design*, 2022, (8): 71-75. DOI: 10.13500/j.dlkcsj.issn1671-9913.2022.08.014. [Full text link](https://drive.google.com/file/d/1FlGnRqWdADikL7mi2oSNDmCOZXP9-byJ/view?usp=sharing){:target="_blank"}. (In Chinese: 王明文, 张超, 王宁, 李欣. AutoCAD二次开发在输电线路工程测量中的应用[J]. 电力勘测设计, 2022, (8): 71-75. DOI: 10.13500/j.dlkcsj.issn1671-9913.2022.08.014)
