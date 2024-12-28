@@ -11,13 +11,19 @@ main:
   - title: "Research"
     url: /research/    
 
-  - title: "Data&Codes"
-    url: /rdata/    
-            
+  - title: "Project"
+    url: /project/ 
+
+  - title: "Codes"
+    url: /codes/ 
+
+  - title: "Data"
+    url: /rdata/
+    
   - title: "News"
     url: /news/
     
-  # - title: "CV"
-    # url: /cv/
+  - title: "Album"
+    url: /album/
     
 
