@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----------------------------------------------------------------
-**1. Scientific projects I participated in during my Ph.D. and Master periods**
+**1. Scientific projects I participated during my Ph.D. and Master periods**
 
 
 [6] *Impact of crop structure change on grain-water tradeoff synergistic relationship in three provinces of Northeast China, 01.2023-08.2023*
