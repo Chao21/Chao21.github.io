@@ -8,6 +8,7 @@ author_profile: true
 -----------------------------------------------------------------
 **1. Scientific projects I participated during my Ph.D. and Master periods**
 
+(These projects sponsored my doctoral and master research.)
 
 [6] *Impact of crop structure change on grain-water tradeoff synergistic relationship in three provinces of Northeast China, 01.2023-08.2023*
 
@@ -49,6 +50,8 @@ author_profile: true
 
 -----------------------------------------------------------------
 **2. Experience of Software Development**
+
+(I like coding and developed some little softwares during my Educational and Industrial Period)
 
 [6] *Power Transmission Line Demolition Mapping Software, 2020 (copyright: 2020SR0469591)*
 
