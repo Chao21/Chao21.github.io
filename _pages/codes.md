@@ -18,6 +18,7 @@ packages used in this work include:
 ∙ Python 2.7, numpy 1.16.6, pandas 0.19.0, scipy 1.2.3, scikit-learn 0.20.3, matplotlib 1.1.1
 
 
+-----------------------------------------------------------------------------
 
 **[1] Zhang, C., Ge, Q., Dong, J., et al., 2023. Characterizing spatial, diurnal, and seasonal patterns of agricultural irrigation expansion-induced cooling in Northwest China from 2000 to 2020. Agricultural and Forest Meteorology. 109304. https://doi.org/10.1016/j.agrformet.2022.109304**
 
