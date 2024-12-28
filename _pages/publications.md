@@ -10,7 +10,7 @@ author_profile: true
 *corresponding author, #co-first author  
 
 
-**Articles in Peer-reviewed Journals**
+**1. Articles in Peer-reviewed Journals**
 
 [9]	Yifeng Cui, Jinwei Dong\*, **Chao Zhang**, Jilin Yang, Na Chen, Peng Guo, Yuanyuan Di, Mengxi Chen, Aiwen Li, Ronggao Liu. [Validation and refinement of cropland map in southwestern China by harnessing ten contemporary datasets.](https://doi.org/10.1038/s41597-024-03508-5){:target="_blank"} *Scientific Data* 11, 671.
 
@@ -30,7 +30,10 @@ author_profile: true
 
 [1]	**Chao Zhang**, Jinwei Dong, Lijun Zuo, Quansheng Ge\*. [Tracking spatiotemporal dynamics of irrigated croplands in China from 2000 to 2019 through the synergy of remote sensing, statistics, and historical irrigation datasets.](https://doi.org/10.1016/j.agwat.2022.107458){:target="_blank"} *Agricultural Water Management* 263, 107458-107470.
 
-**Conference Proceedings**
+**2. Conference Proceedings**
 
 [1]	Yifeng Cui, Ronggao Liu, Zhichao Li, **Chao Zhang**, Xiao-Peng Song, Jilin Yang, Le Yu, Mengxi Chen, Jinwei Dong\*. [Decoding the inconsistency of six cropland maps in China.](https://doi.org/10.1016/j.cj.2023.11.011){:target="_blank"} *AGU Fall Meeting Abstracts 2023* GC44E-05.
 
+**3. Publications During My Industrial Career**
+
+[1]	**Chao Zhang**, Jinwei Dong, Lijun Zuo, Quansheng Ge\*. [Tracking spatiotemporal dynamics of irrigated croplands in China from 2000 to 2019 through the synergy of remote sensing, statistics, and historical irrigation datasets.](https://doi.org/10.1016/j.agwat.2022.107458){:target="_blank"} *Agricultural Water Management* 263, 107458-107470.
