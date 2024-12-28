@@ -33,14 +33,14 @@ author_profile: true
 
 --------------------------------------------------
 **2. Conference Proceedings**
------
+
 
 [1]	Yifeng Cui, Ronggao Liu, Zhichao Li, **Chao Zhang**, Xiao-Peng Song, Jilin Yang, Le Yu, Mengxi Chen, Jinwei Dong\*. [Decoding the inconsistency of six cropland maps in China.](https://doi.org/10.1016/j.cj.2023.11.011){:target="_blank"} *AGU Fall Meeting Abstracts 2023* GC44E-05.
 
 
 --------------------------------------------------
 **3. Papers during my MASTER education and INDUSTRIAL working careers**
---------------------------------------------------
+
 
 [11] **Zhang C.**, Li X., Zhao X. Electricity Transmission Line Path Planning Based on Improved Dijkstra Algorithm. *Electric Power Survey & Design*, 2022, (2): 1-5. DOI: 10.13500/j.dlkcsj.issn1671-9913.2022.02.001. [Full text link](https://drive.google.com/file/d/1a52iio-s8dqF3gKHM6WLcK4OS66Ev2Tp/view?usp=sharing){:target="_blank"}. (In Chinese: 张超, 李欣, 赵祥伟. 基于改进Dijkstra算法的输电线路路径规划[J]. 电力勘测设计, 2022, (2): 1-5. DOI: 10.13500/j.dlkcsj.issn1671-9913.2022.02.001)
 
