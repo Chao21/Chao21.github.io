@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Data"
-permalink: /rdata/
+title: "Codes"
+permalink: /codes/
 author_profile: true
 ---
 
