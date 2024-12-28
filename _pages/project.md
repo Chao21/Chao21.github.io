@@ -22,7 +22,7 @@ author_profile: true
 
 [My role] Investigating the climatic effects of irrigation expansion.
 
-[4] *Ecological Civilization Project Towards A Beautiful China, 09.2020-09.2021**
+[4] *Ecological Civilization Project Towards A Beautiful China, 09.2020-09.2021*
 
 [Type] Strategic Priority Research Program of the Chinese Academy of Sciences, PI: Quansheng Ge, grant No.: XDA23100400
 
