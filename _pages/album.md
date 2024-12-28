@@ -9,18 +9,13 @@ author_profile: true
 
 
 ======
+December 2024, AGU journey
 
-
-![](https://Chao21.github.io/images/RSE_Irrigation.png){:height="800px" width="600px"}
-
-
-
-
-![](https://Chao21.github.io/images/AFM2_Cooling.png){:height="800px" width="600px"}
+![](https://Chao21.github.io/images/2024.12-Capitol Hill(Washington).png){:height="800px" width="600px"}
 
 
 
+![](https://Chao21.github.io/images/2024.12-Dubai2.png){:height="800px" width="600px"}
 
-![](https://Chao21.github.io/images/COMPAG_Croplands.png){:height="1600px" width="900px"}
 
 
