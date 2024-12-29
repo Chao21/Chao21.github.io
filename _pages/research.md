@@ -6,10 +6,16 @@ author_profile: true
 ---
 
 --------------------------------------------------
-**Summary:**
+**Summary**
 ------
 
-Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of existing cropland datasets. Detailed work include three parts: remote sensing-based mapping of irrigated croplands in China, quantification of irrigation cooling effects on land surface temperature, and evaluation of existing high-resolution cropland datasets across China
+Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of existing cropland datasets. Detailed work include three parts: 
+
+(1) remote sensing-based mapping of irrigated croplands in China
+
+(2) quantification of irrigation cooling effects on land surface temperature
+
+(3) evaluation of existing high-resolution cropland datasets across China
 
 
 **1. Remote Sensing-based Mapping of Irrigated Croplands in China**
@@ -47,7 +53,7 @@ Reference:
 
 
 
-**2. Quantifying irrigation cooling effects on land surface temperature**
+**2. Quantifying Irrigation Cooling Effects on Land Surface Temperature**
 ------
 In the last two decades, agricultural irrigation areas evolved rapidly in China and altered local and regional climates. However, the increasing irrigation’s climatic effects with underlying biophysical mechanisms have rarely been investigated. 
 
@@ -76,7 +82,7 @@ Reference:
 [3]	**Chao Zhang**, Quansheng Ge\*, ..., Jinwei Dong\*. (2025). Divergent weakened cooling effects and biophysical mechanisms of water-saving irrigation in varied climate zones. (In prepare)
 
 
-**3. Evaluation of six 30-m cropland datasets in China**
+**3. Evaluation of Existing High-resolution Cropland Datasets in China**
 ------
 
 With the development of remote sensing technology, more and more fine-resolution cropland datasets have emerged as powerful tools for agriculture planning and food security evaluation. But questions about their accuracy and reliability must be answered before using them, making evaluations necessary. So far, little attention has been paid to the performance of fine-resolution (e.g., 30 m) and cropland-specific products at continental or regional scales. 
