@@ -20,7 +20,7 @@ Starting from my Ph.D. career (2020-present), my research covers land use/cover 
 
 **1. Remote Sensing-based Mapping of Irrigated Croplands in China**
 ------
-Keywords: Irrigation, remote sensing, China, two-step strategy, Google Earth Engine
+Keywords: Irrigation; Remote sensing; China; Two-step strategy; Google Earth Engine
 
 Agricultural irrigation, as an important practice to protect crops from drought and promote grain yield, has a long history in China. A timely and precise dataset about the extent and dynamics of irrigated areas is necessary for water allocation and agricultural management but is scarce in China. We produced the irrigation distribution dataset in China from 2000 to 2019 combining remote sensing and census data. 
 
@@ -59,6 +59,9 @@ Reference:
 
 **2. Quantifying Irrigation Cooling Effects on Land Surface Temperature**
 ------
+
+Keywords: Irrigation; Cooling effect; Land surface temperature
+
 In the last two decades, agricultural irrigation areas evolved rapidly in China and altered local and regional climates. However, the increasing irrigation’s climatic effects with underlying biophysical mechanisms have rarely been investigated. 
 
 Taking the irrigated croplands from the IrriMap_CN product as the object, we analyzed the spatial, seasonal, and diurnal patterns of irrigation effect on land surface temperature (LST) with the biophysical mechanisms, using the pairwise comparison method, energy balance equation, and statistical analyses based on remote sensing derived LST, albedo and the evapotranspiration dataset. Finally, the effect of the rapid expansion of water-saving irrigation areas since the 21st century in China on the irrigation cooling effect was investigated.
