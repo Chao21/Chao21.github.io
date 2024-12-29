@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 --------------------------------------------------
-**Summary**
 
+**Summary**
+------
 
 Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of existing cropland datasets. Detailed work include three parts: 
 
@@ -91,6 +92,7 @@ Reference:
 
 **3. Evaluation of Existing High-resolution Cropland Datasets in China**
 ------
+Keywords: Cropland; China; Accuracy; Evaluation
 
 With the development of remote sensing technology, more and more fine-resolution cropland datasets have emerged as powerful tools for agriculture planning and food security evaluation. But questions about their accuracy and reliability must be answered before using them, making evaluations necessary. So far, little attention has been paid to the performance of fine-resolution (e.g., 30 m) and cropland-specific products at continental or regional scales. 
 
