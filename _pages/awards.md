@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Album"
-permalink: /album/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 ---
 
