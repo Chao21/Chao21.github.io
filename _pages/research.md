@@ -28,7 +28,7 @@ We constructed a "two-step" strategy:
 (1) Get preliminary irrigation data set (IrriMap_Syn) using a spatial downscaling method on existing irrigation datasets and statistical data (synergy mapping);
 (2) Produce the improved 500-m irrigated cropland data set (IrriMap_CN) using machine learning with the vast sample retrieved from IrriMap_Syn on Google Earth Engine. 
 
-![](https://Chao21.github.io/images/1_Irrigation_mapping_01.png){:height="800px" width="600px"}
+![](https://Chao21.github.io/images/1_Irrigation_mapping_01.png){:height="800px" width="1200px"}
 
 Conclusions: 
 
@@ -59,7 +59,7 @@ In the last two decades, agricultural irrigation areas evolved rapidly in China 
 
 Taking the irrigated croplands from the IrriMap_CN product as the object, we analyzed the spatial, seasonal, and diurnal patterns of irrigation effect on land surface temperature (LST) with the biophysical mechanisms, using the pairwise comparison method, energy balance equation, and statistical analyses based on remote sensing derived LST, albedo and the evapotranspiration dataset. Finally, the effect of the rapid expansion of water-saving irrigation areas since the 21st century in China on the irrigation cooling effect was investigated.
 
-![](https://Chao21.github.io/images/2_Irrigation_cooling_effect_01.png){:height="800px" width="600px"}
+![](https://Chao21.github.io/images/2_Irrigation_cooling_effect_01.png){:height="800px" width="1200px"}
 
 Conclusions:
 
