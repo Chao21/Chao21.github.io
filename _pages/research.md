@@ -7,6 +7,7 @@ author_profile: true
 
 --------------------------------------------------
 **Summary**
+------
 
 Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of existing cropland datasets. Detailed work include three parts: 
 
