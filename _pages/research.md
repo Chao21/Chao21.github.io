@@ -7,7 +7,7 @@ author_profile: true
 
 --------------------------------------------------
 **Summary**
-*****
+
 
 Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of existing cropland datasets. Detailed work include three parts: 
 
@@ -29,9 +29,9 @@ We constructed a "two-step" strategy:
 (2) Produce the improved 500-m irrigated cropland data set (IrriMap_CN) using machine learning with the vast sample retrieved from IrriMap_Syn on Google Earth Engine. 
 
 
-center class="half">
-    <img src="https://Chao21.github.io/images/1_Irrigation_mapping_01.png" width="1200"/>
-</center>
+
+<img src="https://Chao21.github.io/images/1_Irrigation_mapping_01.png" width="1200"/>
+
 
 
 Conclusions: 
