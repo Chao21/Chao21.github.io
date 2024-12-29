@@ -14,7 +14,7 @@ author_profile: true
 
 
 **2020-2023, Memory of My Ph.D. Time**
-![](https://Chao21.github.io/images/Album_Ph.D._Scene_01.png){:width="1200px"}
+![](https://Chao21.github.io/images/Album_Ph.D._Scene1_01.png){:width="1200px"}
 
-![](https://Chao21.github.io/images/Album_Ph.D._Scene_02.png){:width="1200px"}
+![](https://Chao21.github.io/images/Album_Ph.D._Scene1_02.png){:width="1200px"}
 
