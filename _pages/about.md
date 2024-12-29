@@ -49,6 +49,6 @@ Reviewer for Science Bulletin, Agricultural and Forest Meteorology, Biogeoscienc
 Contact Me
 ------
 * zc.geos@google.com (permanent, academic email, suggested) 
-* zhangc.20b@igsnrr.ac.cn (permanent, Ph.D email since 2020)
+* zhangc.20b@igsnrr.ac.cn (permanent, Ph.D. email since 2020)
 * chao.z23@nus.edu.sg (temporary, postdoc email since 2023 but will expire when I finish my postdoctoral trem at NUS)
 
