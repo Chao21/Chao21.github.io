@@ -78,7 +78,7 @@ With the development of remote sensing technology, more and more fine-resolution
 
 Here we implemented a comparison analysis and accuracy assessment for six cropland products with a 30-m resolution in China circa 2015, including FROM-GLC, GLC_FCS, CLCD, AGLC, GFSAD, GLAD. Their similarities and disparities were delineated at national, provincial, meridional, and zonal scales. 
 
-![](https://Chao21.github.io/images/3_Cropland_Evaluation.png){:height="1600px" width="900px"}
+![](https://Chao21.github.io/images/3_Cropland_Evaluation.png){:height="800px" width="800px"}
 
 Conclusions:
 
