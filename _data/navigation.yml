@@ -13,7 +13,10 @@ main:
 
   - title: "Project"
     url: /project/ 
-
+    
+  - title: "Awards"
+    url: /awards/ 
+    
   - title: "Codes"
     url: /codes/ 
 
