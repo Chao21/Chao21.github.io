@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 --------------------------------------------------
-Summary: Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of existing cropland datasets. Detailed work include three parts: remote sensing-based mapping of irrigated croplands in China, quantification of irrigation cooling effects on land surface temperature, and evaluation of existing high-resolution cropland datasets across China
+Summary: 
+——————————
+
+Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of existing cropland datasets. Detailed work include three parts: remote sensing-based mapping of irrigated croplands in China, quantification of irrigation cooling effects on land surface temperature, and evaluation of existing high-resolution cropland datasets across China
 
 **1. Remote Sensing-based Mapping of Irrigated Croplands in China**
 ------
@@ -73,6 +76,7 @@ Reference:
 
 
 **3. Evaluation of six 30-m cropland datasets in China**
+------
 
 With the development of remote sensing technology, more and more fine-resolution cropland datasets have emerged as powerful tools for agriculture planning and food security evaluation. But questions about their accuracy and reliability must be answered before using them, making evaluations necessary. So far, little attention has been paid to the performance of fine-resolution (e.g., 30 m) and cropland-specific products at continental or regional scales. 
 
