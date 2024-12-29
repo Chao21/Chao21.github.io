@@ -18,7 +18,7 @@ We constructed a "two-step" strategy:
 (1) Get preliminary irrigation data set (IrriMap_Syn) using a spatial downscaling method on existing irrigation datasets and statistical data (synergy mapping);
 (2) Produce the improved 500-m irrigated cropland data set (IrriMap_CN) using machine learning with the vast sample retrieved from IrriMap_Syn on Google Earth Engine. 
 
-![](https://Chao21.github.io/images/RSE_Irrigation.png){:height="800px" width="600px"}
+![](https://Chao21.github.io/images/1_Irrigation_mapping_01.png){:height="800px" width="600px"}
 
 Conclusions: 
 
@@ -49,6 +49,8 @@ In the last two decades, agricultural irrigation areas evolved rapidly in China 
 
 Taking the irrigated croplands from the IrriMap_CN product as the object, we analyzed the spatial, seasonal, and diurnal patterns of irrigation effect on land surface temperature (LST) with the biophysical mechanisms, using the pairwise comparison method, energy balance equation, and statistical analyses based on remote sensing derived LST, albedo and the evapotranspiration dataset. Finally, the effect of the rapid expansion of water-saving irrigation areas since the 21st century in China on the irrigation cooling effect was investigated.
 
+![](https://Chao21.github.io/images/2_Irrigation_cooling_effect_01.png){:height="800px" width="600px"}
+
 Conclusions:
 
 (1) Irrigation in China’s croplands decreased daytime temperatures by 0.34 ± 0.02 K and nighttime temperatures by 0.19 ± 0.02 K, with the strongest cooling observed in arid regions, particularly during summer.
@@ -59,7 +61,6 @@ Conclusions:
 
 (4) In Xinjiang, a key region for water-saving irrigation, daytime cooling weakened by 0.21 K/decade and nighttime cooling strengthened by 0.12 K/decade, with the most pronounced changes in southern Xinjiang and late summer to early spring.
 
-![](https://Chao21.github.io/images/AFM2_Cooling.png){:height="800px" width="600px"}
 
 
 Reference: 
@@ -77,6 +78,7 @@ With the development of remote sensing technology, more and more fine-resolution
 
 Here we implemented a comparison analysis and accuracy assessment for six cropland products with a 30-m resolution in China circa 2015, including FROM-GLC, GLC_FCS, CLCD, AGLC, GFSAD, GLAD. Their similarities and disparities were delineated at national, provincial, meridional, and zonal scales. 
 
+![](https://Chao21.github.io/images/3_Cropland_Evaluation.png){:height="1600px" width="900px"}
 
 Conclusions:
 
@@ -86,7 +88,7 @@ Conclusions:
 
 (3) Pixel-wise validation revealed that CLCD and GLAD had the highest overall accuracy (0.88), followed by AGLC (0.85) and GFSAD (0.84), with FROM-GLC and GLC_FCS performing the worst (OAs < 0.70).
 
-![](https://Chao21.github.io/images/COMPAG_Croplands.png){:height="1600px" width="900px"}
+
 
 
 Reference:
