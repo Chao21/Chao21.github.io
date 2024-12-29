@@ -28,7 +28,11 @@ We constructed a "two-step" strategy:
 (1) Get preliminary irrigation data set (IrriMap_Syn) using a spatial downscaling method on existing irrigation datasets and statistical data (synergy mapping);
 (2) Produce the improved 500-m irrigated cropland data set (IrriMap_CN) using machine learning with the vast sample retrieved from IrriMap_Syn on Google Earth Engine. 
 
-![](https://Chao21.github.io/images/1_Irrigation_mapping_01.png){:height="800px" width="1200px"}
+
+center class="half">
+    <img src="https://Chao21.github.io/images/1_Irrigation_mapping_01.png" width="1200"/>
+</center>
+
 
 Conclusions: 
 
