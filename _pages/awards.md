@@ -8,15 +8,15 @@ author_profile: true
 --------------------------------------------------
 
 
-*2023, Outstanding Graduate Scholarship from IGSNRR, Chinese Academy of Sciences
+* 2023, Outstanding Graduate Scholarship from IGSNRR, Chinese Academy of Sciences
 
-*2023, Outstanding students from Chinese Academy of Sciences
+* 2023, Outstanding students from Chinese Academy of Sciences
 
-*2022 & 2023, First prize of Academic Scholarship from IGSNRR, Chinese Academy of Sciences
+* 2022 & 2023, First prize of Academic Scholarship from IGSNRR, Chinese Academy of Sciences
 
-*2022 & 2023, First prize of President Scholarship from IGSNRR, Chinese Academy of Sciences
+* 2022 & 2023, First prize of President Scholarship from IGSNRR, Chinese Academy of Sciences
 
-*2021, Second prize of President Scholarship from IGSNRR, Chinese Academy of Sciences
+* 2021, Second prize of President Scholarship from IGSNRR, Chinese Academy of Sciences
 
 *2016, Excellent graduate of Hunan Province
 
