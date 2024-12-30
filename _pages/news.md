@@ -67,6 +67,8 @@ redirect_from:
 
 **January 2022**
 
+* [Congratulations] I am now a Ph.D. candidate! I just passed my dissertation proposal defense and gained A (highest score) from all seven comittee members.
+
 * [Paper online] My first paper during my PhD period "Tracking spatiotemporal dynamics of irrigated croplands in China from 2000 to 2019 through the synergy of remote sensing, statistics, and historical irrigation datasets" has been published online! We introduce a synergy mapping method to produce the first kind of irrigated croplands in China in the last two decades. Please check our paper here https://doi.org/10.1016/j.agwat.2022.107458
 
 **September 2020**
