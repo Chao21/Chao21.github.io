@@ -10,7 +10,7 @@ author_profile: true
 **Summary**
 ------
 
-Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of remote sensing-derived productions. Detailed work include three parts: 
+Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of remote sensing-derived products. Detailed work include three parts: 
 
 (1) remote sensing-based mapping of irrigated croplands in China
 
