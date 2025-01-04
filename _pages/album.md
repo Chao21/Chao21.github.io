@@ -14,7 +14,7 @@ author_profile: true
 
 
 **2024, Scene in Singapore**
-![](https://Chao21.github.io/images/2024-Singapore.png){:width="1200px"}
+![](https://Chao21.github.io/images/2024_Singapore.png){:width="1200px"}
 
 
 **2020-2023, Scene in My Ph.D. Time, Beijing, China**
