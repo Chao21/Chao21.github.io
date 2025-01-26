@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am now a post-doctoral research fellow in the department of [Civil and Environmental Engineering, National University of Singapore](https://cde.nus.edu.sg/cee/). I gained my Ph.D. degree in the [Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences](http://english.igsnrr.cas.cn/), China in June, 2023. Before that, I spent seven years in the [Central South University](https://www.csu.edu.cn/) in Changsha, Hunan Province to obtain my bachaler and master degrees.
+I am currently a Postdoctoral Research Fellow in the Department of [Civil and Environmental Engineering at the National University of Singapore](https://cde.nus.edu.sg/cee/). I earned my Ph.D. degree from the [Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences](http://english.igsnrr.cas.cn/), in June, 2023. Prior to that, I completed my bachelor's and master's degrees at [Central South University](https://www.csu.edu.cn/) in Changsha, Hunan Province, China. I also have four years of experience in the electrical surveying industry, which has enriched my interdisciplinary perspective and technical expertise.
 
-I like exploring the Earth using satellite observations and statistical modeling/machine learning methods. Reading papers and discussing with colleagues enrich my brain, swimming and running make me physically strong.
-Welcome to contact me for discussions and collaborations.
+My research focuses on exploring the Earth's processes through satellite observations combined with statistical modeling and machine learning techniques. I am passionate about advancing our understanding of environmental systems and welcome opportunities to engage in discussions and collaborations. Outside of research, I enjoy reading and staying active through swimming and running.
+Please feel free to reach out to connect or collaborate!
 
 
 Research Interests
