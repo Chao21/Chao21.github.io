@@ -43,12 +43,15 @@ Membership
 
 Academic Service
 ------
-Reviewer for Science Bulletin, Agricultural and Forest Meteorology, Biogeosciences, International Journal of Remote Sensing, Remote Sensing, Agriculture, Atmosphere, Sustainability, Environments, IEEE Access
+Reviewer for Remote Sensing of Environment, Science Bulletin, Agricultural and Forest Meteorology, Biogeosciences, International Journal of Remote Sensing, Remote Sensing, Agriculture, Atmosphere, Sustainability, Environments, IEEE Access, Remote Sensing Applications: Society and Environment.
 
+# Special Issue in Sustainability proposed by me and my colleagues is opening:
+
+[Remote Sensing and Spatial Analysis for Monitoring and Assessing Landscape and Ecosystem Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/KWMGT9QAAJ){:target="_blank"}
 
 Contact Me
 ------
-* zc.geos@google.com (academic email, suggested) 
+* zc.geos@google.com (academic email) 
 * zhangc.20b@igsnrr.ac.cn (Ph.D. email since 2020)
 * chao.z23@nus.edu.sg (postdoc email since 2023)
 
