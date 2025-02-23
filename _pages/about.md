@@ -45,7 +45,7 @@ Academic Service
 ------
 Reviewer for Remote Sensing of Environment, Science Bulletin, Agricultural and Forest Meteorology, Biogeosciences, International Journal of Remote Sensing, Remote Sensing, Agriculture, Atmosphere, Sustainability, Environments, IEEE Access, Remote Sensing Applications: Society and Environment.
 
-# Special Issue in Sustainability proposed by me and my colleagues is opening:
+**Special Issue in Sustainability proposed by me and my colleagues is opening, welcome any submissions**
 
 [Remote Sensing and Spatial Analysis for Monitoring and Assessing Landscape and Ecosystem Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/KWMGT9QAAJ){:target="_blank"}
 
