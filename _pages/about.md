@@ -51,7 +51,6 @@ Reviewer for Remote Sensing of Environment, Science Bulletin, Agricultural and F
 
 Contact Me
 ------
-* zc.geos@google.com (academic email) 
-* zhangc.20b@igsnrr.ac.cn (Ph.D. email since 2020)
 * chao.z23@nus.edu.sg (postdoc email since 2023)
+* chaozhang.geo@google.com (academic email)
 
