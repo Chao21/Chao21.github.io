@@ -52,5 +52,5 @@ Reviewer for Remote Sensing of Environment, Science Bulletin, Agricultural and F
 Contact Me
 ------
 * chao.z23@nus.edu.sg
-* chaozhang.geo@google.com
+* chaozhang.geo@gmail.com
 
