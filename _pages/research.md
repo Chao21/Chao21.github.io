@@ -12,11 +12,11 @@ author_profile: true
 
 Starting from my Ph.D. career (2020-present), my research covers land use/cover classification, quantifying climatic effects of land use/cover change, and evaluation and validation of remote sensing-derived products. Detailed work include three parts: 
 
-(1) remote sensing-based mapping of irrigated croplands in China
+(1) Remote sensing-based mapping of irrigated croplands in China
 
-(2) quantification of irrigation cooling effects on land surface temperature
+(2) Quantification of irrigation cooling effects on land surface temperature
 
-(3) evaluation of existing high-resolution cropland datasets
+(3) Evaluation of existing high-resolution cropland datasets
 
 
 **1. Remote Sensing-based Mapping of Irrigated Croplands in China**
