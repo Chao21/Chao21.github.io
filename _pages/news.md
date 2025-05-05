@@ -10,10 +10,17 @@ redirect_from:
 {% include base_path %}
 
 --------------------------------------------------
+**April 2025**
+
+* I attended the EGU General Assembly in Vienna, Austria—a beautiful city with warm and welcoming people.
+* It was my first time visiting, and I was delighted to engage with scholars I’ve been following for years.
+* During the conference, I presented a poster titled “A GNN-RNN Framework for Rice Yield Prediction in South Asia” on April 29.
+
+  
 **December 2024**
 
-* I attended the AGU fall meeting at Washington D.C, 2024. This is my first time and I am astonished by the grand community of Earth science.
-* On this conference, I gave an Oral presentation "Widespread spillover effects of irrigation on water availability in the United States" on 10th December, and a Poster presentation "AI-driven High-resolution Rice Yield Prediction Aided by Satellite Data" on 13th December.
+* I attended the 2024 AGU Fall Meeting in Washington, D.C.—my first time at the event—and was truly amazed by the scale and vibrancy of the Earth science community.
+* During the conference, I delivered an oral presentation titled “Widespread Spillover Effects of Irrigation on Water Availability in the United States” on December 10, and a poster presentation “AI-driven High-resolution Rice Yield Prediction Aided by Satellite Data” on December 13.
 
 
 **June 2024**
