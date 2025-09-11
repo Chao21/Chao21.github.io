@@ -53,5 +53,5 @@ Contact Me
 ------
 * chao.z23@nus.edu.sg
 * zc.geos@gmail.com
-* zhangchaocsu@gmail.com
+* chaozhang.geo@gmail.com
 
