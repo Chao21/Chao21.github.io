@@ -10,6 +10,24 @@ redirect_from:
 {% include base_path %}
 
 --------------------------------------------------
+**December 2025**
+
+* I attended the 2025 AGU Fall Meeting in New Orleans, Louisiana, USA, on 14-19 December 2025.
+* During the conference, I presented a poster titled “Non-Local Moisture Recycling Modulates Carbon-Water Trade-offs Under Future Land Use Change” on December 15.
+
+
+**August 2025**
+
+* I attended the International Geoscience and Remote Sensing Symposium (IGARSS) Annual Meeting in the sunshine city, Brisbane, Australia, on 3-8 August 2025.
+* During the conference, I presented a poster titled “RICE YIELD FORECAST USING A GNN-RNN FRAMEWORK” on August 5.
+
+
+**July 2025**
+
+* I attended the Asia Oceania Geosciences Society (AOGS) Annual Meeting in Singapore, where I did not need to fly a long journey.
+* During the conference, I presented a poster titled “Annual Rice Yield Maps for Southeast Asia Using Deep Learning, Satellite Imagery, and Environmental Data” on July 29.
+
+  
 **April 2025**
 
 * I attended the EGU General Assembly in Vienna, Austria—a beautiful city with warm and welcoming people.
