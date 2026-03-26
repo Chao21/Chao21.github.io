@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 --------------------------------------------------
+January 2026
+
+* [Paper online] My first-authored paper publised on *Communications Earth & Environment*: "Irrigation cooling effect reduced by water-saving practices". We find water-saving irrigation weakened daytime cooling and enhance nighttime cooling across China. Satellite and surface energy balance analyses (2001-2020) link this to reduced soil evaporation, increased sensible heat, and altered land-atmosphere interactions. Please check here https://doi.org/10.1038/s43247-025-03030-5 for details.
+
+
 **December 2025**
 
 * I attended the 2025 AGU Fall Meeting in New Orleans, Louisiana, USA, on 14-19 December 2025.
