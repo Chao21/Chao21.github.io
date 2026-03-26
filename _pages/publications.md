@@ -11,9 +11,11 @@ author_profile: true
 
 -----
 **1. Articles in Peer-reviewed Journals**
+
 [12] Peng Xiao, Liu Ziwei, Ziegler, Alan D., **Zhang Chao**, Liu Zhanwei, Xiaogang He\*. [Beyond the Mean: Cold and Warm Tail Temperature Trends Reveal Asymmetric Controls on Snowpack Changes in the Northern Hemisphere.](https://doi.org/10.1029/2025WR041419){:target="_blank"}. *Water Resources Research* 11, 671. [Full text link](https://drive.google.com/file/d/1Tc9sT0K4LP3Dbudc2jgrTUMjX2rgCLNa/view?usp=drive_link){:target="_blank"}
 
 [11] Tong Yang, Dong Jinwei\*, Jie Wang, **Chao Zhang**, Wenqi Liu, Yuting Zhou, Geli Zhang, Guosong Zhao. Unveiling spatial and temporal characteristics of cooling effects of rice paddy expansion in Northeast China  (2026). [Unveiling spatial and temporal characteristics of cooling effects of rice paddy expansion in Northeast China.](https://doi.org/10.1016/j.agrformet.2025.110967){:target="_blank"}. *Agricultural and Forest Meteorology* 11, 671. [Full text link](https://drive.google.com/file/d/1qZArd9dfnCdeiaeFjZmlEjGbYAIjmgE8/view?usp=drive_link){:target="_blank"}
+
 [10]	**Chao Zhang**, Ge Quansheng\*, Wim Thiery, Yan Li, Shushi Peng, Guoyong Leng, Guosong Zhao, Zhenong Jin, Wei Li, Kun Zhang, Xuezhen Zhang, Songjun Han, Geli Zhang, Xiangming Xiao, Dong Jinwei\*. (2025). [Irrigation cooling effect reduced by water-saving practices.](https://doi.org/10.1038/s43247-025-03030-5){:target="_blank"}. *Communications Earth & Environment* 11, 671. [Full text link](https://drive.google.com/file/d/1DFH_A3vJMvDRHoqKK4r84OYMGIcOaiwI/view?usp=drive_link){:target="_blank"}
 
 [9]	Yifeng Cui, Dong Jinwei\*, **Chao Zhang**, Jilin Yang, Na Chen, Peng Guo, Yuanyuan Di, Mengxi Chen, Aiwen Li, Ronggao Liu. (2024). [Validation and refinement of cropland map in southwestern China by harnessing ten contemporary datasets.](https://doi.org/10.1038/s41597-024-03508-5){:target="_blank"}. *Scientific Data* 11, 671. [Full text link](https://drive.google.com/file/d/1xbyXRU89rwU5e47jyz6L92DXodRQooI9/view?usp=sharing){:target="_blank"}
