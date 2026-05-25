@@ -12,7 +12,7 @@ redirect_from:
 --------------------------------------------------
 **May 2026**
 
-* [Paper online] My co-authored and corresponded paper published on *ISPRS Journal of Photogrammetry and Remote Sensing*: Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021. We produced the first long-term irrigation datasets in Africa, and delineated diverse spatial and temporal variations of irrigated croplands in the last two decades, serving the continental sustainable agricultural developments.
+* [Paper online] My co-authored and corresponded paper published on *ISPRS Journal of Photogrammetry and Remote Sensing*: Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021. We produced the first long-term irrigation datasets in Africa, and delineated diverse spatial and temporal variations of irrigated croplands in the last two decades, serving the continental sustainable agricultural developments. Congratulations to Abera! Proud of you!
 
 **January 2026**
 
