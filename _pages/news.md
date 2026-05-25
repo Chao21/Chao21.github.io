@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 --------------------------------------------------
-January 2026
+**May 2026**
+[Paper online] My co-authored and corresponded paper published on *ISPRS Journal of Photogrammetry and Remote Sensing*: Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021. We produced the first long-term irrigation datasets in Africa, and delineated diverse spatial and temporal variations of irrigated croplands in the last two decades, serving the continental sustainable agricultural developments.
+
+**January 2026**
 
 * [Paper online] My first-authored paper publised on *Communications Earth & Environment*: "Irrigation cooling effect reduced by water-saving practices". We find water-saving irrigation weakened daytime cooling and enhance nighttime cooling across China. Satellite and surface energy balance analyses (2001-2020) link this to reduced soil evaporation, increased sensible heat, and altered land-atmosphere interactions. Please check here https://doi.org/10.1038/s43247-025-03030-5 for details.
 
