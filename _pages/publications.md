@@ -12,7 +12,7 @@ author_profile: true
 -----
 **1. Articles in Peer-reviewed Journals**
 
-[13] Tolera Abera Misgana, **Zhang Chao**, You Nanshan, Dong Jinwei\*.  (2026). [Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021](https://doi.org/10.1016/j.isprsjprs.2026.04.057){:target="_blank"}. *Agricultural and Forest Meteorology* 11, 671. [Full text link](https://drive.google.com/file/d/1TOSnozjuCfElnkzph70m-Bf4JxW477TW/view?usp=sharing){:target="_blank"}
+[13] Tolera Abera Misgana, **Zhang Chao\***, You Nanshan, Dong Jinwei\*.  (2026). [Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021](https://doi.org/10.1016/j.isprsjprs.2026.04.057){:target="_blank"}. *Agricultural and Forest Meteorology* 11, 671. [Full text link](https://drive.google.com/file/d/1TOSnozjuCfElnkzph70m-Bf4JxW477TW/view?usp=sharing){:target="_blank"}
 
 [12] Yang Tong, Dong Jinwei\*, Wang Jie, **Zhang Chao**, Liu Wenqi, Zhou Yuting, Zhang Geli, Zhao Guosong.  (2026). [Unveiling spatial and temporal characteristics of cooling effects of rice paddy expansion in Northeast China.](https://doi.org/10.1016/j.agrformet.2025.110967){:target="_blank"}. *Agricultural and Forest Meteorology* 11, 671. [Full text link](https://drive.google.com/file/d/1qZArd9dfnCdeiaeFjZmlEjGbYAIjmgE8/view?usp=drive_link){:target="_blank"}
 
