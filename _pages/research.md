@@ -89,7 +89,7 @@ Reference:
 
 [2]	**Chao Zhang**, Jinwei Dong\*, Guoyong Leng, Russell Doughty, Kun Zhang, Songjun Han, Geli Zhang, Xuezhen Zhang, Quansheng Ge\*. (2023). [Attenuated cooling effects with increasing water-saving irrigation: Satellite evidence from Xinjiang, China.](https://doi.org/10.1016/j.agrformet.2023.109397){:target="_blank"} *Agricultural and Forest Meteorology* 333, 109397-109409. [Full text link](https://drive.google.com/file/d/19VtUwVqugybOplLDFyyoOxfLVHeZk9He/view?usp=sharing){:target="_blank"}
 
-[3]	**Chao Zhang**, Quansheng Ge\*, ..., Jinwei Dong\*. (2025). Divergent weakened cooling effects and biophysical mechanisms of water-saving irrigation in varied climate zones. (In prepare)
+[3]	**Chao Zhang**, Quansheng Ge\*, ..., Jinwei Dong\*. (2025). [Irrigation cooling effect reduced by water-saving practices.](https://doi.org/10.1038/s43247-025-03030-5){:target="_blank"}. *Communications Earth & Environment* 11, 671. [Full text link](https://drive.google.com/file/d/1DFH_A3vJMvDRHoqKK4r84OYMGIcOaiwI/view?usp=drive_link){:target="_blank"}
 
 
 **3. Evaluation of Existing High-resolution Cropland Datasets in China**
