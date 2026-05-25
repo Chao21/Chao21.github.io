@@ -56,7 +56,7 @@ Reference:
 
 [4]	**Chao Zhang**, Jinwei Dong\*, Quansheng Ge\*. (2022). [IrriMap_CN: Annual irrigation maps across China in 2000–2019 based on satellite observations, environmental variables, and machine learning.](https://doi.org/10.1016/j.rse.2022.113184){:target="_blank"} *Remote Sensing of Environment* 280, 113184-113197. [Full text link](https://drive.google.com/file/d/1zdF7AY7e4va0cOEvv67R547daq-ht28t/view?usp=sharing){:target="_blank"}
 
-[5] Abera Misgana Tolera, **Chao Zhang**, Nanshan You, Jinwei Dong\*. (2026). Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021{:target="_blank"}. Agricultural and Forest Meteorology 11, 671. Full text link{:target="_blank"}
+[5] Abera Misgana Tolera, **Chao Zhang\***, Nanshan You, Jinwei Dong\*. (2026). Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021{:target="_blank"}. Agricultural and Forest Meteorology 11, 671. Full text link{:target="_blank"}
 
 
 
